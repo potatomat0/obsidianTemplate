@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5bdd66189ed266ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "980bdc0e3746fa7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5effb228abd0317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-03-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c684aaf5c86bc6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd93f54083df35a",
+        "type": "tabs",
+        "dimension": 73.15436241610739,
+        "children": [
+          {
+            "id": "8c180004fcaa17a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86469fbf617c8b81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ffeaa18e6b9484e",
+        "type": "tabs",
+        "dimension": 26.845637583892618,
+        "children": [
+          {
+            "id": "c3ad3b7cc4a682a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "846247545b2df07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f55725fc997b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31650cac6b864903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023-03-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "66b843161e2a2968",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bb105a3979207e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023-03-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b679524630e12963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d9f4eca6d19a9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cae5082630b39939",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2023-03-10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d5effb228abd0317",
+  "lastOpenFiles": [
+    "Music Diary/Dhorimviskha - Koenji Hyakkei.md",
+    "Journal/2023-03-10.md",
+    "Music Diary/Lambchop - Is a Woman.md",
+    "Music Diary/Inherits the Void - The Impending Fall of the Stars.md",
+    "Music Diary/Boa - The Race of a Thoudsand Camels.md",
+    "Music Diary/Various artists - bblisss.md",
+    "Music Diary/Wilco - Yankee Hotel Foxtrot.md",
+    "Journal/2023-03-09.md",
+    "Journal/2023-03-08.md",
+    "Music Diary/Sault - Untitled (Rise).md",
+    "Music Diary/gru - Cosmogenesis.md",
+    "Music Diary/The Canyon Observer - Figura.md",
+    "Music Diary/Big Brave - Nature Morte.md",
+    "Sault - Untitled (Rise).md",
+    "Big Brave - Nature Morte.md",
+    "Music Diary/ あのち - Gezan with Million Wish Collective.md",
+    "Music Diary/demo .md",
+    "The Canyon Observer - Figura.md",
+    "Music Diary/demo 1.md",
+    "Music Diary/Maudlin of The Well - My Fruit Psychobells  A Seed Combustible.md",
+    "People/Công viên Hoàng Văn Thụ.md",
+    "Study Notes/Study note 2023 Mar 08.md",
+    "Music Diary/slowthai - UGLY.md",
+    "Music Diary/Kaatayra - Toda história pela frente.md",
+    "Journal/2023-03-07.md",
+    "Journal/2023-03-06.md",
+    "index.canvas"
+  ]
+}

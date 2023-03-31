@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiHomeLine",
+      "🗂",
+      "FasUsers",
+      "FasPerson",
+      "SiPocket"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Journal": "RiQuillPenFill",
+  "Idea": "FasLightbulb",
+  "Study Notes": "🗒",
+  "Templates": "FasBox",
+  "Music Diary": "FabItunesNote",
+  "WebNote": "FasGlobe",
+  "Tracker": "FasDatabase",
+  "Scripts": "SiJavascript",
+  "Weekly notes": "FasCalendarDay",
+  "Pocket": "SiPocket",
+  "People": "FasUsers",
+  "index.canvas": "RiHomeLine"
+}

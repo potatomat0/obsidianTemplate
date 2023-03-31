@@ -1,0 +1,1751 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "album": {
+      "album": {
+        "frontMatter": {
+          "count": 257,
+          "lastUpdated": 1678429276848
+        }
+      }
+    },
+    "ambient": {
+      "ambient": {
+        "frontMatter": {
+          "count": 25,
+          "lastUpdated": 1677773098256
+        }
+      }
+    },
+    "Electronic": {
+      "Electronic": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1678194073492
+        }
+      }
+    },
+    "bark psychosis - codename dustsucker": {
+      "bark psychosis - codename dustsucker": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1677251908826
+        }
+      }
+    },
+    "transportation": {
+      "transportation": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1676047844961
+        }
+      }
+    },
+    "Nguyễn Hải Đăng": {
+      "Nguyễn Hải Đăng": {
+        "internalLink": {
+          "count": 17,
+          "lastUpdated": 1678120171576
+        }
+      }
+    },
+    "post-rock": {
+      "post-rock": {
+        "frontMatter": {
+          "count": 14,
+          "lastUpdated": 1678119647597
+        }
+      }
+    },
+    "Võ Tuấn Khương": {
+      "Võ Tuấn Khương": {
+        "internalLink": {
+          "count": 35,
+          "lastUpdated": 1678429526338
+        }
+      }
+    },
+    "dream-pop": {
+      "dream-pop": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1677941037075
+        }
+      }
+    },
+    "vaporwave": {
+      "vaporwave": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1677165044294
+        }
+      }
+    },
+    "Shoegaze": {
+      "Shoegaze": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1677941034475
+        }
+      }
+    },
+    "indie-rock": {
+      "indie-rock": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1678428997028
+        }
+      }
+    },
+    "Duy Thái": {
+      "Duy Thái": {
+        "internalLink": {
+          "count": 39,
+          "lastUpdated": 1678030471786
+        }
+      }
+    },
+    "Xuân Minh": {
+      "Xuân Minh": {
+        "internalLink": {
+          "count": 15,
+          "lastUpdated": 1677512534018
+        }
+      }
+    },
+    "singer-songwriter": {
+      "singer-songwriter": {
+        "frontMatter": {
+          "count": 15,
+          "lastUpdated": 1678119354389
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678119395782
+        }
+      }
+    },
+    "experimental hip hop": {
+      "experimental hip hop": {
+        "frontMatter": {
+          "count": 23,
+          "lastUpdated": 1677849087312
+        }
+      }
+    },
+    "post-punk": {
+      "post-punk": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1676441945177
+        }
+      }
+    },
+    "alternative-rock": {
+      "alternative-rock": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1678428864291
+        }
+      }
+    },
+    "abstract hip hop": {
+      "abstract hip hop": {
+        "frontMatter": {
+          "count": 12,
+          "lastUpdated": 1677849093533
+        }
+      }
+    },
+    "art-rock": {
+      "art-rock": {
+        "frontMatter": {
+          "count": 18,
+          "lastUpdated": 1678429004166
+        }
+      }
+    },
+    "downtempo": {
+      "downtempo": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1678027371336
+        }
+      }
+    },
+    "Bowery Electric - Beat": {
+      "Bowery Electric - Beat": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1676266089153
+        }
+      }
+    },
+    "Youtube Links": {
+      "Youtube Links": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675874583623
+        }
+      }
+    },
+    "progressive-rock": {
+      "progressive-rock": {
+        "frontMatter": {
+          "count": 17,
+          "lastUpdated": 1677941276783
+        }
+      }
+    },
+    "glitch": {
+      "glitch": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1676217580274
+        }
+      }
+    },
+    "avant-garde-metal": {
+      "avant-garde-metal": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1678289797321
+        }
+      }
+    },
+    "cloud-Rap": {
+      "cloud-Rap": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1677687969378
+        }
+      }
+    },
+    "neo psychedelia": {
+      "neo psychedelia": {
+        "frontMatter": {
+          "count": 12,
+          "lastUpdated": 1678193855913
+        }
+      }
+    },
+    "Psychedelic Pop": {
+      "Psychedelic Pop": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1676301723092
+        }
+      }
+    },
+    "free-improvisation": {
+      "free-improvisation": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1677165133428
+        }
+      }
+    },
+    "Hoàng Anh": {
+      "Hoàng Anh": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1677080766871
+        }
+      }
+    },
+    "synth-pop": {
+      "synth-pop": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1678119669499
+        }
+      }
+    },
+    "sound-collage": {
+      "sound-collage": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1677417363651
+        }
+      }
+    },
+    "chamber-pop": {
+      "chamber-pop": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1677596763890
+        }
+      }
+    },
+    "indie-pop": {
+      "indie-pop": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1676301580397
+        }
+      }
+    },
+    "symphonic-prog": {
+      "symphonic-prog": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1678027696043
+        }
+      }
+    },
+    "dark ambient": {
+      "dark ambient": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1677164818845
+        }
+      }
+    },
+    "infrastructure": {
+      "infrastructure": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1675856272405
+        }
+      }
+    },
+    "privilege": {
+      "privilege": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1675874661769
+        }
+      }
+    },
+    "psychedelic-rock": {
+      "psychedelic-rock": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1677687795874
+        }
+      }
+    },
+    "progressive-metal": {
+      "progressive-metal": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1677941273012
+        }
+      }
+    },
+    "east-coast-hip-hop": {
+      "east-coast-hip-hop": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1677849095479
+        }
+      }
+    },
+    "Chu Vũ Hoàng Nguyên": {
+      "Chu Vũ Hoàng Nguyên": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677207037912
+        }
+      }
+    },
+    "experimental": {
+      "experimental": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1677849083130
+        }
+      }
+    },
+    "conscious-hip-hop": {
+      "conscious-hip-hop": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1678027344291
+        }
+      }
+    },
+    "jazz-rap": {
+      "jazz-rap": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1678027363191
+        }
+      }
+    },
+    "electroacoustic": {
+      "electroacoustic": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1678193999939
+        }
+      }
+    },
+    "atmotspheric black metal": {
+      "atmotspheric black metal": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1678428821996
+        }
+      }
+    },
+    "field-recording": {
+      "field-recording": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1678029389041
+        }
+      }
+    },
+    "ambient-pop": {
+      "ambient-pop": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1677511012064
+        }
+      }
+    },
+    "death-metal": {
+      "death-metal": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1678029281181
+        }
+      }
+    },
+    "black-metal": {
+      "black-metal": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1678428770300
+        }
+      }
+    },
+    "post-industrial": {
+      "post-industrial": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1678194059465
+        }
+      }
+    },
+    "experimental-rock": {
+      "experimental-rock": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1678029382654
+        }
+      }
+    },
+    "talk talk - laughing stock": {
+      "talk talk - laughing stock": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677941383869
+        }
+      }
+    },
+    "Hải": {
+      "Hải": {
+        "internalLink": {
+          "count": 19,
+          "lastUpdated": 1678429528699
+        }
+      }
+    },
+    "Công viên gia định": {
+      "Công viên gia định": {
+        "internalLink": {
+          "count": 15,
+          "lastUpdated": 1678428659738
+        }
+      }
+    },
+    "garage-rock": {
+      "garage-rock": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1675955343863
+        }
+      }
+    },
+    "atmotspheric-sludge-metal": {
+      "atmotspheric-sludge-metal": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1678289937321
+        }
+      }
+    },
+    "dissonant-death-metal": {
+      "dissonant-death-metal": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1676047719046
+        }
+      }
+    },
+    "Cô Kim Bán Chè": {
+      "Cô Kim Bán Chè": {
+        "internalLink": {
+          "count": 20,
+          "lastUpdated": 1678429088012
+        }
+      }
+    },
+    "art-pop": {
+      "art-pop": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1677773154429
+        }
+      }
+    },
+    "technical-death-metal": {
+      "technical-death-metal": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1678029285010
+        }
+      }
+    },
+    "Cryptopsy - None So Vile": {
+      "Cryptopsy - None So Vile": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675856286298
+        }
+      }
+    },
+    "Hồ Văn Hào": {
+      "Hồ Văn Hào": {
+        "internalLink": {
+          "count": 13,
+          "lastUpdated": 1678291634135
+        }
+      }
+    },
+    "Parannoul - After The Magic": {
+      "Parannoul - After The Magic": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1676734294852
+        }
+      }
+    },
+    "amsterdam": {
+      "amsterdam": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675856259940
+        }
+      }
+    },
+    "troubleshooting": {
+      "troubleshooting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675874301864
+        }
+      }
+    },
+    "betcover - Tamago": {
+      "betcover - Tamago": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675874496342
+        }
+      }
+    },
+    "conspiracy": {
+      "conspiracy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675920462497
+        }
+      }
+    },
+    "Asleep Country - Fake Opulent": {
+      "Asleep Country - Fake Opulent": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675921785033
+        }
+      }
+    },
+    "space-rock": {
+      "space-rock": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1675955326640
+        }
+      }
+    },
+    "chamber-music": {
+      "chamber-music": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1678119374407
+        }
+      }
+    },
+    "new-age": {
+      "new-age": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1677164319099
+        }
+      }
+    },
+    "venezuela": {
+      "venezuela": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675955569648
+        }
+      }
+    },
+    "moisture": {
+      "moisture": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675955852619
+        }
+      }
+    },
+    "proprietary": {
+      "proprietary": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675956666251
+        }
+      }
+    },
+    "metalcore": {
+      "metalcore": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676047812697
+        }
+      }
+    },
+    "melodic-metalcore": {
+      "melodic-metalcore": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676047828322
+        }
+      }
+    },
+    "Học được gì khi làm “công nhân nhãn hiệu” (Brand Marketer) ở công ty nghìn tỷ ": {
+      "Học được gì khi làm “công nhân nhãn hiệu” (Brand Marketer) ở công ty nghìn tỷ ": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676048094597
+        }
+      }
+    },
+    "khuya": {
+      "khuya": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676048789208
+        }
+      }
+    },
+    "NhatHoang37": {
+      "NhatHoang37": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676083180493
+        }
+      }
+    },
+    "css": {
+      "css": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676083345026
+        }
+      }
+    },
+    "Hoàng Huy": {
+      "Hoàng Huy": {
+        "internalLink": {
+          "count": 15,
+          "lastUpdated": 1678291521844
+        }
+      }
+    },
+    "Dương": {
+      "Dương": {
+        "internalLink": {
+          "count": 8,
+          "lastUpdated": 1677335620741
+        }
+      }
+    },
+    "class mate": {
+      "class mate": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1677514415434
+        }
+      }
+    },
+    "Cù Minh Mẫn": {
+      "Cù Minh Mẫn": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678291648472
+        }
+      }
+    },
+    "potatomat0": {
+      "potatomat0": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676133208589
+        }
+      }
+    },
+    "trip-hop": {
+      "trip-hop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676134667540
+        }
+      }
+    },
+    "noise-rock": {
+      "noise-rock": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1678289926628
+        }
+      }
+    },
+    "Devon Hendryx - Joechillworld": {
+      "Devon Hendryx - Joechillworld": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676218018474
+        }
+      }
+    },
+    "Autechre - Confield": {
+      "Autechre - Confield": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676218714469
+        }
+      }
+    },
+    "Elza - A mulher do fim do mundo": {
+      "Elza - A mulher do fim do mundo": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676265755780
+        }
+      }
+    },
+    "Lena Raine - Celeste": {
+      "Lena Raine - Celeste": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676266513310
+        }
+      }
+    },
+    "jazz-rock": {
+      "jazz-rock": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676301672757
+        }
+      }
+    },
+    "progressive-pop": {
+      "progressive-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676301715280
+        }
+      }
+    },
+    "indietronica": {
+      "indietronica": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676302120691
+        }
+      }
+    },
+    "digital-fusion": {
+      "digital-fusion": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676383566267
+        }
+      }
+    },
+    "Sungazer - Sungazer Vol II": {
+      "Sungazer - Sungazer Vol II": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676383579086
+        }
+      }
+    },
+    "King Gizzard & The Lizard Wizard - Changes": {
+      "King Gizzard & The Lizard Wizard - Changes": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676383583651
+        }
+      }
+    },
+    "nu-jazz": {
+      "nu-jazz": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678119319383
+        }
+      }
+    },
+    "Sungazer - Perihelion": {
+      "Sungazer - Perihelion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676384763676
+        }
+      }
+    },
+    "Depressed [鬱 ] - Pink Album ": {
+      "Depressed [鬱 ] - Pink Album ": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676384767828
+        }
+      }
+    },
+    "alternative dance": {
+      "alternative dance": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676441959373
+        }
+      }
+    },
+    "Php": {
+      "Php": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676442053240
+        }
+      }
+    },
+    "cyber": {
+      "cyber": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676442708797
+        }
+      }
+    },
+    "cyber-security": {
+      "cyber-security": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676442710570
+        }
+      }
+    },
+    "darkwave": {
+      "darkwave": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676443012980
+        }
+      }
+    },
+    "neoclassical": {
+      "neoclassical": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676443017284
+        }
+      }
+    },
+    "Dead Can Dance - Spleen and Ideal": {
+      "Dead Can Dance - Spleen and Ideal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676443037328
+        }
+      }
+    },
+    "Instrumental Hip Hop": {
+      "Instrumental Hip Hop": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1678027340844
+        }
+      }
+    },
+    "Young Fathers - Heavy Heavy": {
+      "Young Fathers - Heavy Heavy": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676477756921
+        }
+      }
+    },
+    "Yo La Tengo - This stupid world": {
+      "Yo La Tengo - This stupid world": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676567559441
+        }
+      }
+    },
+    "krautrock": {
+      "krautrock": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1677687798786
+        }
+      }
+    },
+    "minimal-synth": {
+      "minimal-synth": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676567736093
+        }
+      }
+    },
+    "The Apartments - Fête foraine": {
+      "The Apartments - Fête foraine": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676650654504
+        }
+      }
+    },
+    "Trần Khải Hoàn": {
+      "Trần Khải Hoàn": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677080789532
+        }
+      }
+    },
+    "Bauhaus - In the Flat Field": {
+      "Bauhaus - In the Flat Field": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676652148442
+        }
+      }
+    },
+    "neo-soul": {
+      "neo-soul": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1677849106083
+        }
+      }
+    },
+    "alternative-rnb": {
+      "alternative-rnb": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676734370939
+        }
+      }
+    },
+    "Omnipotent Youth Society - Omnipotent Youth Society": {
+      "Omnipotent Youth Society - Omnipotent Youth Society": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676735526943
+        }
+      }
+    },
+    "industrial hip hop": {
+      "industrial hip hop": {
+        "frontMatter": {
+          "count": 7,
+          "lastUpdated": 1677083992534
+        }
+      }
+    },
+    "hardcore-hip-hop": {
+      "hardcore-hip-hop": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1678290164844
+        }
+      }
+    },
+    "new-wave": {
+      "new-wave": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676903561596
+        }
+      }
+    },
+    "Injury Reverse - By The Time I Get To Phoenix": {
+      "Injury Reverse - By The Time I Get To Phoenix": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676904704120
+        }
+      }
+    },
+    "Ai Aso - Lone": {
+      "Ai Aso - Lone": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676990905192
+        }
+      }
+    },
+    "tape-music": {
+      "tape-music": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1677164901192
+        }
+      }
+    },
+    "neoclassical-new-age": {
+      "neoclassical-new-age": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677084096079
+        }
+      }
+    },
+    "Injury Reserve - Injury Reserve": {
+      "Injury Reserve - Injury Reserve": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677417232523
+        }
+      }
+    },
+    "Madvillainy - Madvillainy": {
+      "Madvillainy - Madvillainy": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678292317578
+        }
+      }
+    },
+    "plunderphonics": {
+      "plunderphonics": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1677165045411
+        }
+      }
+    },
+    "baroque-pop": {
+      "baroque-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677252025493
+        }
+      }
+    },
+    "Death Grips - Exmilitary ": {
+      "Death Grips - Exmilitary ": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677417239773
+        }
+      }
+    },
+    "cartoon": {
+      "cartoon": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677417411863
+        }
+      }
+    },
+    "Kendrick Lamar - To Pimp A Butterfly": {
+      "Kendrick Lamar - To Pimp A Butterfly": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677417451084
+        }
+      }
+    },
+    "avant-garde jazz": {
+      "avant-garde jazz": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1678289799820
+        }
+      }
+    },
+    "Lily Chou Chou - Kokyuu": {
+      "Lily Chou Chou - Kokyuu": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677512370757
+        }
+      }
+    },
+    "contemporary-folk": {
+      "contemporary-folk": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678027539837
+        }
+      }
+    },
+    "slowcore": {
+      "slowcore": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678428748520
+        }
+      }
+    },
+    "unnecessary": {
+      "unnecessary": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677510961425
+        }
+      }
+    },
+    "ethereal-wave": {
+      "ethereal-wave": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677511008392
+        }
+      }
+    },
+    "modern-classical": {
+      "modern-classical": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677511963940
+        }
+      }
+    },
+    "_____": {
+      "_____": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677512287615
+        }
+      }
+    },
+    "Strapping Young Lad - Alien": {
+      "Strapping Young Lad - Alien": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677513434261
+        }
+      }
+    },
+    "Against All Logic - 2012 - 2017": {
+      "Against All Logic - 2012 - 2017": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677513451516
+        }
+      }
+    },
+    "grab": {
+      "grab": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677514530515
+        }
+      }
+    },
+    "Hứa Hồng Thanh An": {
+      "Hứa Hồng Thanh An": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678291642251
+        }
+      }
+    },
+    "Nas - Illmatic": {
+      "Nas - Illmatic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677514819667
+        }
+      }
+    },
+    "avant-folk": {
+      "avant-folk": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1678119358870
+        }
+      }
+    },
+    "chamber-folk": {
+      "chamber-folk": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678027412743
+        }
+      }
+    },
+    "progressive-folk": {
+      "progressive-folk": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1677687894724
+        }
+      }
+    },
+    "electro-pop": {
+      "electro-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677687815483
+        }
+      }
+    },
+    "JPEGMAFIA - EP": {
+      "JPEGMAFIA - EP": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677688045088
+        }
+      }
+    },
+    "saudi": {
+      "saudi": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677689080051
+        }
+      }
+    },
+    "Post-hardcore": {
+      "Post-hardcore": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678119523129
+        }
+      }
+    },
+    "ambient-techno": {
+      "ambient-techno": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1678428958450
+        }
+      }
+    },
+    "necessarily": {
+      "necessarily": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677773228684
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677773283100
+        }
+      }
+    },
+    "dance-punk": {
+      "dance-punk": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678290195177
+        }
+      }
+    },
+    "industrial rock": {
+      "industrial rock": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677773384757
+        }
+      }
+    },
+    "Model Actriz - Dogsbody": {
+      "Model Actriz - Dogsbody": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677773393170
+        }
+      }
+    },
+    "Thrice - The Artist in the Ambulance (Revisited)": {
+      "Thrice - The Artist in the Ambulance (Revisited)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677773507714
+        }
+      }
+    },
+    "5 Principles for More Excellence With Less Angst": {
+      "5 Principles for More Excellence With Less Angst": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677774326633
+        }
+      }
+    },
+    "Haken - Fauna": {
+      "Haken - Fauna": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677848883786
+        }
+      }
+    },
+    "folk-metal": {
+      "folk-metal": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677849161666
+        }
+      }
+    },
+    "Yugari - Still Dreaming Still Deafening": {
+      "Yugari - Still Dreaming Still Deafening": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677941056484
+        }
+      }
+    },
+    "math-pop": {
+      "math-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677941137050
+        }
+      }
+    },
+    "porcupine": {
+      "porcupine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677942971052
+        }
+      }
+    },
+    "drone": {
+      "drone": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678027638267
+        }
+      }
+    },
+    "Ulthar - Anthronomicon": {
+      "Ulthar - Anthronomicon": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678029291841
+        }
+      }
+    },
+    "though": {
+      "though": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678029410545
+        }
+      }
+    },
+    "Julia Holter - Tragedy": {
+      "Julia Holter - Tragedy": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678029416316
+        }
+      }
+    },
+    "folk-pop": {
+      "folk-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119385255
+        }
+      }
+    },
+    "IDM": {
+      "IDM": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119461825
+        }
+      }
+    },
+    "wonky": {
+      "wonky": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119463346
+        }
+      }
+    },
+    "folktronica": {
+      "folktronica": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119466187
+        }
+      }
+    },
+    "glitch-pop": {
+      "glitch-pop": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119470935
+        }
+      }
+    },
+    "screamo": {
+      "screamo": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678119495353
+        }
+      }
+    },
+    "midwest-emo": {
+      "midwest-emo": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678193844194
+        }
+      }
+    },
+    "Britpop": {
+      "Britpop": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678428860472
+        }
+      }
+    },
+    "wayne": {
+      "wayne": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678119718391
+        }
+      }
+    },
+    "Wayne Shorter - JuJu": {
+      "Wayne Shorter - JuJu": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678119720132
+        }
+      }
+    },
+    "Cult Of Luna - The Long Road North": {
+      "Cult Of Luna - The Long Road North": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678120830336
+        }
+      }
+    },
+    "queue": {
+      "queue": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678120935423
+        }
+      }
+    },
+    "intermediate": {
+      "intermediate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678121658642
+        }
+      }
+    },
+    "controversial": {
+      "controversial": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122028510
+        }
+      }
+    },
+    "opinion": {
+      "opinion": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122031392
+        }
+      }
+    },
+    "Luxembourg": {
+      "Luxembourg": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122419364
+        }
+      }
+    },
+    "economy": {
+      "economy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122433471
+        }
+      }
+    },
+    "neighbors": {
+      "neighbors": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122451150
+        }
+      }
+    },
+    "government": {
+      "government": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122507022
+        }
+      }
+    },
+    "probably": {
+      "probably": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678122565117
+        }
+      }
+    },
+    "industrial": {
+      "industrial": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678193884496
+        }
+      }
+    },
+    "neoclassical-darkwave": {
+      "neoclassical-darkwave": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1678194077028
+        }
+      }
+    },
+    "otay onii - 夢之駭客 Dream Hacker": {
+      "otay onii - 夢之駭客 Dream Hacker": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678194087584
+        }
+      }
+    },
+    "free-jazz": {
+      "free-jazz": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678289802078
+        }
+      }
+    },
+    "Drone Metal": {
+      "Drone Metal": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678289913688
+        }
+      }
+    },
+    "post-punk-revival": {
+      "post-punk-revival": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678290203933
+        }
+      }
+    },
+    "Maudlin of The Well - My Fruit Psychobells  A Seed Combustible": {
+      "Maudlin of The Well - My Fruit Psychobells  A Seed Combustible": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678290321292
+        }
+      }
+    },
+    "Công viên Hoàng Văn Thụ": {
+      "Công viên Hoàng Văn Thụ": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678359477358
+        }
+      }
+    },
+    "demo ": {
+      "demo ": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678290792829
+        }
+      }
+    },
+    "gru - Cosmogenesis ": {
+      "gru - Cosmogenesis ": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678293199489
+        }
+      }
+    },
+    "alt-country": {
+      "alt-country": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678428999986
+        }
+      }
+    },
+    "Inherits the Void - The Impending Fall of the Stars": {
+      "Inherits the Void - The Impending Fall of the Stars": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678429051501
+        }
+      }
+    },
+    "Lambchop - Is a Woman": {
+      "Lambchop - Is a Woman": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678429060898
+        }
+      }
+    },
+    "trình": {
+      "trình": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678429191041
+        }
+      }
+    },
+    "Boa - The Race of a Thoudsand Camels": {
+      "Boa - The Race of a Thoudsand Camels": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678429213759
+        }
+      }
+    },
+    "Zeuhl": {
+      "Zeuhl": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678429280788
+        }
+      }
+    },
+    "jazz-fusion": {
+      "jazz-fusion": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678429290159
+        }
+      }
+    },
+    "brutal-prog": {
+      "brutal-prog": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678429292919
+        }
+      }
+    },
+    "Dhorimviskha - Koenji Hyakkei": {
+      "Dhorimviskha - Koenji Hyakkei": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678429302463
+        }
+      }
+    },
+    "Wilco - Yankee Hotel Foxtrot": {
+      "Wilco - Yankee Hotel Foxtrot": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678429423348
+        }
+      }
+    }
+  }
+}

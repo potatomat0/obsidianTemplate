@@ -1,0 +1,9 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "WebNote",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": true,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2023-01-02T19:43:33.179Z"
+}

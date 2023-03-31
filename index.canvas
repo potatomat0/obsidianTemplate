@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"-  Alt + M: Create new album index\n- Ctrl + Alt + N: Open daily note\n- Shift + 1: Zoom to fit\n- Shift + DELETE: new idea note","id":"235b2eb391057e77","x":37,"y":-146,"width":307,"height":348},
+		{"type":"file","file":"Tracker/Template query.md","id":"c0a740b83b7b9fac","x":420,"y":-782,"width":400,"height":400},
+		{"type":"file","file":"Tracker/Articles.md","id":"d7ad9ca372ed369e","x":-872,"y":-981,"width":1216,"height":632,"color":"3"},
+		{"type":"file","file":"Study Notes/CS Book list.md","id":"642f281998402a3c","x":-1422,"y":-970,"width":400,"height":400},
+		{"type":"file","file":"Tracker/Music Diary.md","id":"b06c8d51e2bf60aa","x":-969,"y":-137,"width":820,"height":678,"color":"6"},
+		{"type":"file","file":"Tracker/Journal query.md","id":"63198c88bbef0bfe","x":500,"y":-172,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"67f3b918ab2c5284","fromNode":"235b2eb391057e77","fromSide":"left","toNode":"b06c8d51e2bf60aa","toSide":"right"},
+		{"id":"2088ddfa22fd26ef","fromNode":"235b2eb391057e77","fromSide":"right","toNode":"63198c88bbef0bfe","toSide":"left"}
+	]
+}
